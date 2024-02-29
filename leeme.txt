@@ -1,0 +1,54 @@
+Versión PHP: PHP 8.2.12
+
+Versión SQL: 10.4.32-MariaDB
+
+Instrucciones de instalación 
+
+Instalación de Visual Studio Code:
+Descarga de Visual Studio Code:
+
+Visita el sitio web oficial de Visual Studio Code en code.visualstudio.com.
+Haz clic en el botón de descarga que corresponda a tu sistema operativo (Windows, macOS, Linux).
+Instalación en Windows:
+
+Ejecuta el archivo de instalación que descargaste.
+Sigue las instrucciones del instalador, aceptando los términos de la licencia y eligiendo las opciones de configuración según tus preferencias.
+Instalación en macOS:
+
+Abre el archivo .dmg que descargaste.
+Arrastra el ícono de Visual Studio Code a la carpeta de Aplicaciones.
+Abre Visual Studio Code desde la carpeta de Aplicaciones.
+Instalación en Linux:
+
+Descarga el paquete .deb o .rpm según tu distribución.
+Instala el paquete descargado utilizando el administrador de paquetes de tu distribución.
+Instalación de XAMPP (incluyendo PHP y MySQL):
+Descarga de XAMPP:
+
+Visita el sitio web oficial de XAMPP en https://www.apachefriends.org.
+Descarga la última versión estable de XAMPP para tu sistema operativo (Windows, macOS, Linux).
+Instalación en Windows:
+
+Ejecuta el archivo de instalación que descargaste.
+Sigue las instrucciones del instalador, aceptando los términos de la licencia y eligiendo las opciones de configuración según tus preferencias.
+Instalación en macOS:
+
+Abre el archivo .dmg que descargaste.
+Arrastra el ícono de XAMPP a la carpeta de Aplicaciones.
+Abre XAMPP desde la carpeta de Aplicaciones.
+Instalación en Linux:
+
+Abre una terminal y navega hasta la ubicación donde descargaste el archivo de instalación.
+Ejecuta el comando de instalación proporcionado en la documentación de XAMPP para Linux.
+Configuración de PHP y MySQL en XAMPP:
+Inicio de los Servicios:
+
+Abre XAMPP y asegúrate de que Apache y MySQL estén iniciados. Si no lo están, haz clic en los botones "Start" (Iniciar) junto a cada uno de ellos.
+Acceso a phpMyAdmin:
+
+Abre tu navegador web y navega a http://localhost/phpmyadmin.
+Esto abrirá la interfaz web de phpMyAdmin, donde podrás administrar tus bases de datos MySQL.
+Configuración de PHP:
+
+Abre el directorio de instalación de XAMPP y encuentra la carpeta php.
+En este directorio, puedes encontrar el archivo php.ini que puedes editar para configurar PHP según tus necesidades.
